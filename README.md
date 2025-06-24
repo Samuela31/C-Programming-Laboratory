@@ -1,2 +1,2 @@
-# C-Program-Laboratory
-Contains tutorials in C program done in semester 1.
+# C Programming Laboratory
+Contains C program tutorials done in semester 1.
